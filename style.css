@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 50px;
+}
+.banner{
+    background-color:#feeae9;
+}
+.carousel-item{
+    padding:20px;
+}
+.button{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+
+
+.cat1{
+    background-color: orange;
+   padding: 10px 30px;
+ 
+   border-radius: 5px;
+  
+}
+.cat2{
+background-color: orchid;
+padding: 10px 30px;
+
+border-radius: 5px;
+
+}
+.cat3{
+    background-color: blue;
+    padding: 10px 30px;
+    
+    border-radius: 5px;
+}
+.categories{
+    color:white;
+    
+}
+.categories img{
+width:100px;
+}
+.orange-bg{
+    background-color:#feeae9;
+    height:300px;
+}
+footer{
+    text-align: center;
+}
